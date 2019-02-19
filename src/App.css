@@ -1,0 +1,73 @@
+/* .App {
+
+}
+
+.Return {
+  display: inline-block;
+  position: fixed;
+  top: -15px;
+  left: -200px;
+}
+
+.Group_1 {
+  display: inline-block;
+  position: relative;
+  left: 35%;
+}
+
+.Building {
+  display: inline-block;
+  position: relative;
+  left: 35%;
+}
+
+.RoomNumber {
+  display: inline-block;
+  position: relative;
+  left: 36%;
+}
+
+.Group_3 {
+  display: inline-block;
+  position: relative;
+  left: 35%;
+  margin-top: -100px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+}
+
+h4 {
+  color: white;
+}
+
+form {
+  margin-top: -10px;
+}
+
+input {
+  width: 550px;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 200px;
+  width: 150px;
+  background-color: white;
+  display: inline-block;
+  font-size: 30px;
+  border-radius: 50%;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  /* transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: rgb(199, 119, 236);
+}
+
+.buttons {
+  text-align: center;
+} */
